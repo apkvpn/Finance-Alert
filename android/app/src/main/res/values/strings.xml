@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Finance Alert</string>
+    <string name="title_activity_main">Finance Alert</string>
+    <string name="package_name">com.financealert.app</string>
+    <string name="custom_url_scheme">com.financealert.app</string>
+</resources>
